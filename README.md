@@ -1,4 +1,3 @@
 # Blood-Bank-Management
-1. The blood Bank Management system is to be implemented to have functionalities such as donor registration; blood donation; blood request and issuance of blood.
-2. Only the admin with the correct credentials can access and update the database which includes donor, and blood packet details.
-3. Only donors with valid DNR and in a fit state can donate blood.
+[Notion](https://kaustub.notion.site/MINI-PROJECT-0e0ad8ecfa5d488690db555a5c5d64ea)
+The Blood Bank Management system is to be implemented to have functionalities such as donor registration; blood donation; blood request and issuance of blood.
